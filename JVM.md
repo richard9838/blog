@@ -9,3 +9,5 @@
 [后端技术杂谈](http://www.rowkey.me/)
 
 - [Java调优经验谈](http://www.rowkey.me/blog/2016/11/02/java-profile/)
+
+[jstat命令详解及显示结果含义](http://blog.csdn.net/zhanlanmg/article/details/48463905)
